@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ecommerce-flutter-app.git
+git clone https://github.com/victorjanni/ecommerce-flutter-app.git
 Navigate to the project directory:
 
 bash
