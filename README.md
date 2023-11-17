@@ -14,6 +14,7 @@ Order Management: Keep track of orders and their statuses.
 Payment Integration: Support secure and convenient payment methods.
 Search Functionality: Help users find products quickly with a robust search feature.
 Localization: Make your app accessible to a global audience with multiple language support.
+
 Technologies Used:
 Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Dart: The programming language optimized for building mobile, desktop, server, and web applications.
